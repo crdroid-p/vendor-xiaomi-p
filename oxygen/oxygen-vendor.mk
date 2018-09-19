@@ -316,7 +316,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libts_detected_face_hal \
-    vendor.qti.hardware.fm@1.0 \
     libts_face_beautify_hal \
     qdcm_calib_data_auo_r61322_1080p_video_mode_dsi_panel \
     qdcm_calib_data_tianma_r63350_1080p_video_mode_dsi_panel
